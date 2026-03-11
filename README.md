@@ -1,5 +1,7 @@
 # Levvo — Tu equipo responde WhatsApp. Tú ves quién, qué y cuándo. Simple, rápido, para equipos
 
+[🇺🇸 English version](./en/README.md)
+
 Para equipos de venta de 3 a 10 personas en LATAM.
 
 👉 [levvoapp.com](https://levvoapp.com)

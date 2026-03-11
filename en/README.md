@@ -2,6 +2,8 @@
 
 [🇪🇸 Versión en Español](../README.md)
 
+![Levvo App Screenshot](../app-screenshot.png)
+
 For sales teams of 3 to 10 people.
 
 👉 [levvoapp.com](https://levvoapp.com)

@@ -2,6 +2,8 @@
 
 [🇺🇸 English version](./en/README.md)
 
+![Levvo App Screenshot](./app-screenshot.png)
+
 Para equipos de venta de 3 a 10 personas en LATAM.
 
 👉 [levvoapp.com](https://levvoapp.com)

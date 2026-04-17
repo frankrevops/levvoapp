@@ -1,6 +1,6 @@
 # Levvo — Tu equipo responde WhatsApp. Tú ves quién, qué y cuándo.
 
-[🇺🇸 English version](./en/README.md)
+*   [🇺🇸 English version](./README-ENGLISH.md)
 
 ![Levvo App Screenshot](./app-screenshot.png)
 
@@ -45,7 +45,7 @@ En LATAM, la mayoría de las ventas ocurren en WhatsApp, pero su gestión suele 
 *   **Análisis Predictivo:** Identifica oportunidades de venta y auditores de calidad de atención en segundos.
 
 ### Flexibilidad Total
-*   **Sin procesos técnicos complejos:** Conecta tu número actual (Personal o Business) conectando tu celular en 5 minutos.
+*   **Sin procesos técnicos complejos:** Conecta tu número actual (Personal o Business) vinculando tu celular en 5 minutos.
 *   **Dos Modos de Uso:** Funciona con un número compartido para todo el equipo o con líneas separadas por asesor.
 *   **Multicanal:** Gestión unificada para WhatsApp y Telegram.
 
@@ -53,15 +53,10 @@ En LATAM, la mayoría de las ventas ocurren en WhatsApp, pero su gestión suele 
 
 ## 💎 ¿Por qué elegir Levvo?
 
-1.  **Activación en 5 minutos:** Escaneas un conexión directa y tu equipo ya está operando. Sin esperas de aprobación de Meta.
+1.  **Activación en 5 minutos:** Escaneas un código QR y tu equipo ya está operando. Sin esperas de aprobación de Meta.
 2.  **Sin fricción para el equipo:** La interfaz es tan familiar como WhatsApp Web. No requiere capacitación.
 3.  **Login sin contraseñas:** Acceso seguro mediante Magic Links vía email.
 4.  **Propiedad del Dato:** Las conversaciones se quedan en tu negocio, no en el celular del vendedor.
-*   **Sin complicaciones técnicas:** Conecta tu número actual (Personal o Business) vinculando tu celular en 5 minutos.
-*   **Visibilidad total:** El dueño puede supervisar todas las conversaciones en tiempo real sin pedir reportes.
-*   **Gestión coordinada:** Asignación automática de chats para que cada lead tenga un dueño.
-*   **Asistente IA:** Resúmenes automáticos e IA para sugerir respuestas y cerrar ventas más rápido.
-*   **Propiedad del activo:** Los contactos y el historial pertenecen a la empresa, no al celular del vendedor.
 
 ---
 
@@ -83,11 +78,12 @@ Ideal para equipos de venta de **2 a 10 personas** en industrias con alta demand
 
 ## 📚 Recursos & SEO
 
-*   [Bandeja compartida de WhatsApp para equipos de ventas](https://levvoapp.com/bandeja-compartida-whatsapp-sin-crm-equipo-ventas)
-*   [WhatsApp multiusuario sin complicaciones para PyMEs](https://levvoapp.com/cuanto-cuesta-whatsapp-multiagente-precio-real-pymes)
+*   [WhatsApp coordinado para equipos de ventas sin CRM](https://levvoapp.com/whatsapp-para-equipo-de-ventas-sin-crm)
+*   [Análisis de costos reales de plataformas WhatsApp API](https://levvoapp.com/trampa-plataformas-whatsapp-api-costos-ocultos-latam)
 *   [Por qué las inmobiliarias pierden leads en WhatsApp](https://levvoapp.com/inmobiliarias-whatsapp-leads-perdidos)
-*   [Supervisar WhatsApp de vendedores con líneas separadas](https://levvoapp.com/vendedores-whatsapp-lineas-separadas)
+*   [Qué hacer si un vendedor se lleva los contactos de WhatsApp](https://levvoapp.com/vendedor-se-fue-con-contactos-whatsapp)
 *   [Empezar gratis hoy](https://levvoapp.com)
+
 
 ---
 
